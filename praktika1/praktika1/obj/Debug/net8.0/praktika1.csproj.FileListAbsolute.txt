@@ -1,0 +1,15 @@
+C:\Users\klim0\source\repos\praktika1\praktika1\bin\Debug\net8.0\praktika1.exe
+C:\Users\klim0\source\repos\praktika1\praktika1\bin\Debug\net8.0\praktika1.deps.json
+C:\Users\klim0\source\repos\praktika1\praktika1\bin\Debug\net8.0\praktika1.runtimeconfig.json
+C:\Users\klim0\source\repos\praktika1\praktika1\bin\Debug\net8.0\praktika1.dll
+C:\Users\klim0\source\repos\praktika1\praktika1\bin\Debug\net8.0\praktika1.pdb
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\praktika1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\praktika1.AssemblyInfoInputs.cache
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\praktika1.AssemblyInfo.cs
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\praktika1.csproj.CoreCompileInputs.cache
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\praktika1.sourcelink.json
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\praktika1.dll
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\refint\praktika1.dll
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\praktika1.pdb
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\praktika1.genruntimeconfig.cache
+C:\Users\klim0\source\repos\praktika1\praktika1\obj\Debug\net8.0\ref\praktika1.dll
